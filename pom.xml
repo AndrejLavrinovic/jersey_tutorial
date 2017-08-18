@@ -37,7 +37,7 @@
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>ie.altech.jersey.ServerApplication</mainClass>
+                                    <mainClass>ie.altech.jersey.JerseyTutorialServer</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>

@@ -2,4 +2,10 @@
 
 *.iml
 .idea/*
+
+# maven configurations
 configs/maven/*
+
+# maven package
+target
+
